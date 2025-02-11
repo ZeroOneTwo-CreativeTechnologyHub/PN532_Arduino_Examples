@@ -1,8 +1,10 @@
 # PN532_Arduino_Examples
 Example code to use the PN532 NFC module with an Arduino.
 
-Download & Install the [Adafruit_PN532](https://github.com/adafruit/Adafruit-PN532) library.
-Remember to put it in:  Documents > Arduino > Libraries
+Download & Install the following libraries: 
+[Adafruit_PN532](https://github.com/adafruit/Adafruit-PN532)
+[Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO)
+Remember to unzip and put these libraries in:  Documents > Arduino > Libraries
 
 Open up the Examples from this repository and upload to your Arduino from the IDE with the PN532 module attached as the wiring diagram follows:
 
